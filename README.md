@@ -61,3 +61,7 @@ yarn preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Ref Links
+https://www.telerik.com/blogs/how-to-easily-create-blog-nuxt-content
+https://strapi.io/blog/build-a-news-aggregator-app-using-strapi-and-nuxtjs
